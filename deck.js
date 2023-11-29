@@ -2,7 +2,7 @@
 const values = ['2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A'];
 const suits = ['♠', '♣', '♥', '♦'];
 
-//comment
+//have the deck be an open array
 let deck = [];
 for (let suit of suits) {
     for (let value of values) {
@@ -31,6 +31,7 @@ function dealCard() {
 let Ada = [];
 let Chauncey = [];
 
+// how a winner is declared along with the appropriate console.logs
 const declareWinner = () =>{
     if (adaScore > chaunceyScore) {
         console.log(`Ada wins with ${adaScore} points, Mazel Tov!
@@ -53,6 +54,7 @@ console.log(Ada);
 console.log(Chauncey);
 let adaScore = 0;
 let chaunceyScore = 0;
+
 //who wins based on card number/value with help of if/ else if statements
 function compareCards(card1, card2) {
     const value1 = values.indexOf(card1.slice(0, -1));
