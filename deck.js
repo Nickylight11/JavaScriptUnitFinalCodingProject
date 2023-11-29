@@ -1,4 +1,4 @@
-//established 
+//established the values or card types and their respective suits
 const values = ['2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A'];
 const suits = ['♠', '♣', '♥', '♦'];
 
@@ -32,10 +32,12 @@ let Ada = [];
 let Chauncey = [];
 
 const declareWinner = () =>{
-    if (Ada.points > Chauncey.points) {
-        console.log( 'Ada wins! Mazel Tov!');
-    }else if (Ada.points < Chauncey.points){
-        console.log('Chauncey wins! Mazel Tov!')
+    if (adaScore > chaunceyScore) {
+        console.log(`Ada wins with ${adaScore} points, Mazel Tov!
+Chauncey had ${chaunceyScore} points`)
+    }else if (adaScore < chaunceyScore){
+        console.log(`Chauncey wins with ${chaunceyScore} points, Mazel Tov!
+Ada had ${adaScore} points`)
     } else {
         console.log ('Oy vey, it is a tie game!');
     }
@@ -49,7 +51,8 @@ for (let i = 0; i < 26; i++) {
 
 console.log(Ada);
 console.log(Chauncey);
-
+let adaScore = 0;
+let chaunceyScore = 0;
 //who wins based on card number/value with help of if/ else if statements
 function compareCards(card1, card2) {
     const value1 = values.indexOf(card1.slice(0, -1));
@@ -70,8 +73,10 @@ for (let i = 0; i < 26; i++) {
     console.log(`Ada: ${card1} | Chauncey: ${card2}`);
     const winner = compareCards(card1, card2);
     if (winner === 'Ada') {
+        adaScore += 1;
         console.log('Ada won the round!');
     } else if (winner === 'Chauncey') {
+        chaunceyScore += 1;
         console.log('Chauncey won the round!');
     } else {
         console.log('Oy vey, they tied!');
