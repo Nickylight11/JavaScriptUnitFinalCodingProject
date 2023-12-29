@@ -27,8 +27,6 @@
 - [Live URL](#live-url)
 - [Technologies Used](#technologies-used)
   * [Languages](#languages)
-  * [Frameworks](#frameworks)
-  * [Libraries](#libraries)
 - [Favorite Features](#favorite-features)
 - [Code Snippets](#code-snippets)
 - [Installation](#installation)
@@ -94,7 +92,7 @@ Distributed under no License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## Contact
 
-Your Name - [@twitter_handle]([https://twitter.com/NickyLight11]) - email@nicholas.green@gmail.com
+Your Name - ([https://twitter.com/NickyLight11]) - nicholas.green@gmail.com
 
 Project Link: [https://github.com/Nickylight11/JavaScriptUnitFinalCodingProject](https://github.com/Nickylight11/JavaScriptUnitFinalCodingProject)
 
