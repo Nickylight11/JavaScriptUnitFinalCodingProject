@@ -4,7 +4,7 @@
   <h1>JavaScript Unit Final Coding Project ReadMe</h1>
   
   <p>
-    An awesome README template for your projects! 
+    An inside scoop of my War Game created for Promineo Tech's Front End Software Development Bootcamp! 
   </p>
    
 <h4>
@@ -23,9 +23,7 @@
 <!-- Table of Contents -->
 # Table of Contents
 
-- [About the Project](#about-the-project)
-  * [App Description](#app-description)
-  * [Features](#features)
+- [Project Description](#project-description)
 - [Live URL](#live-url)
 - [Technologies Used](#technologies-used)
   * [Languages](#languages)
@@ -35,7 +33,6 @@
 - [Code Snippets](#code-snippets)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [FAQ](#faq)
 - [License](#license)
 - [Contact](#contact)
   
@@ -44,7 +41,7 @@
 ### About the Project
 
 
-<!-- Screenshots -->
+<!-- Live URL -->
 ### Live URL
 
 <div align="center"> 
@@ -52,18 +49,8 @@
 </div>
 
 
-<!-- TechStack -->
+<!-- Tech used -->
 ### Technologies Used
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-  </ul>
-</details>
 
 <details>
   <summary>Server</summary>
