@@ -27,6 +27,7 @@
 - [Live URL](#live-url)
 - [Technologies Used](#technologies-used)
   * [Languages](#languages)
+  * [Packages](#packages)
 - [Favorite Features](#favorite-features)
 - [Code Snippets](#code-snippets)
 - [Installation](#installation)
