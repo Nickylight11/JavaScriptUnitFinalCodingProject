@@ -66,7 +66,6 @@
 - Funny Yiddish Commentary
 - Auto-generated Results of each player with the push of the refresh button
 
-
 <!-- Installation -->
 ### Installation
 
@@ -76,13 +75,13 @@
 <!-- Contributing -->
 ## Contributing
 
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+<a href="https://github.com/Nickylight11/JavaScriptUnitFinalCodingProject/graphs/contributors">
   <img src="https://avatars.githubusercontent.com/u/146104225?v=4" />
 </a>
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See `contributing.txt` for ways to get started.
 
 <!-- License -->
 ## License
