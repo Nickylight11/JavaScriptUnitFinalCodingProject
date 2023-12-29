@@ -56,9 +56,6 @@
     <li><a href="https://www.javascript.com/">JavaScript</a></li>
     <li><a href="https://www.html.com/">HTML</a></li>
   </ul>
-</details>
-
-<details>
   <summary>Packages</summary>
   <ul>
     <li><a href="https://nodejs.org/en">Node.js & Package.json</a></li>
