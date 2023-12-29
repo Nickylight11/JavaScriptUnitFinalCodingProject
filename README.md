@@ -77,7 +77,7 @@
 ## Contributing
 
 <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+  <img src="https://avatars.githubusercontent.com/u/146104225?v=4" />
 </a>
 
 Contributions are always welcome!
