@@ -40,20 +40,20 @@
 <!-- About the Project -->
 ### About the Project
 
+  <p>
+    This project was created as part of our Week 9 assignment for Promineo Tech's Front End Software Development Bootcamp! The purpose was to create a War Game (card game) using JavaScript and have the game play out within the Console of your website.
+  </p>
 
 <!-- Live URL -->
 ### Live URL
 
-<div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-</div>
-
+[https://nickylight11.github.io/JavaScriptUnitFinalCodingProject/]
 
 <!-- Tech used -->
 ### Technologies Used
 
 <details>
-  <summary>Server</summary>
+  <summary>Languages</summary>
   <ul>
     <li><a href="https://www.javascript.com/">JavaScript</a></li>
     <li><a href="https://www.html.com/">HTML</a></li>
