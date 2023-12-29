@@ -58,6 +58,12 @@
   </ul>
 </details>
 
+<details>
+  <summary>Packages</summary>
+  <ul>
+    <li><a href="https://nodejs.org/en">Node.js & Package.json</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 ### Features
